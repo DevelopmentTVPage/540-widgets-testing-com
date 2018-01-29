@@ -1,0 +1,15 @@
+{
+    "title": "test123",
+    "baseURL": "https:\/\/widgets.testing.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758799",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "testing.com"
+    }
+}
